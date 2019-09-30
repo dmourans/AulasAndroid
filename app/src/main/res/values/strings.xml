@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecycleView</string>
+    <string name="wTELEFONE">Telefone</string>
+    <string name="wNOME">Nome</string>
+</resources>
